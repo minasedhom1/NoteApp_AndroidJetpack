@@ -1,3 +1,6 @@
-# NoteApp_AndroidJetpack
+# NoteApp
 
-http://g.recordit.co/OziIxEYQt1.gif
+### Android Jetpack
+
+### App Walkthrough GIF
+ <img src="http://g.recordit.co/OziIxEYQt1.gif" width=250>
